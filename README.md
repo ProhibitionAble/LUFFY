@@ -32,8 +32,8 @@ See the complete TODO list below for current development priorities.
 - [ ] **luffy/verl/verl/protocol.py:136** - Optimize tensor view operations for performance
 - [ ] **luffy/verl/verl/protocol.py:137** - Add error handling for invalid batch dimensions
 - [ ] **luffy/verl/verl/protocol.py:169** - Add consistency check
-- [ ] **luffy/verl/verl/protocol.py:265** - Lift restriction when non_tensor_batch and batch are both present
-- [ ] **luffy/verl/verl/protocol.py:351** - Decide whether to copy batch/meta info when selecting keys
+- [ ] **luffy/verl/verl/protocol.py:265** - we can actually lift this restriction if needed
+- [ ] **luffy/verl/verl/protocol.py:351** - whether to copy
 
 ## Development Notes
 
